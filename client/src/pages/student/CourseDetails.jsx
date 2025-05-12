@@ -118,7 +118,7 @@ const CourseDetails = () => {
 
             <p>{courseData.enrolledStudents.length} {courseData.enrolledStudents.length > 1 ? 'students' : 'student'}</p>
           </div>
-
+z
           <p className='text-sm'>Course by <span className='text-blue-600 underline'>{courseData.educator.name}</span></p>
 
           <div className="pt-8 text-gray-800">

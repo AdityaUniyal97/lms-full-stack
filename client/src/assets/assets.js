@@ -1,3 +1,4 @@
+import favicon from './favicon.svg';
 import logo from './logo.svg'
 import logo_dark from './logo_dark.svg'
 import search_icon from './search_icon.svg'
@@ -45,6 +46,7 @@ import lesson_icon from './lesson_icon.svg'
 
 
 export const assets = {
+    favicon,
     logo,
     search_icon,
     sketch,
